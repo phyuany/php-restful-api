@@ -1,6 +1,5 @@
 ## PHPRestfulDemo
 
-> 国内仓库：[https://gitee.com/jkdev_cn/PhpRestfulApiDemo](https://gitee.com/jkdev_cn/PhpRestfulApiDemo)
 
 ### 一、简介
 
